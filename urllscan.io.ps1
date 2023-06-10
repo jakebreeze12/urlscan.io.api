@@ -1,4 +1,4 @@
-. .\config.ps1 #Calls the config.ps1 file so we are able to carry the API variable. 
+. .\config.ps1 
 
 $api = $API_KEY
 
